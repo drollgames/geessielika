@@ -15,7 +15,7 @@ let hg = gslk.proxy.get.msg(true);
 
 * baixe nosso api [clicando aqui](https://cdn.gslk.ga/v1/proxy/) !
 
-### GsLK API
+### GsLK UP
 
 * Upload file: `ga.gslk.up(id)`
 
